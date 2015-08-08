@@ -1,0 +1,14 @@
+{
+  "name": "odaniait-java",
+  "version": "0.1.0",
+  "author": "odaniait",
+  "summary": "Setup java and JAVA_HOME",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Odania-IT/puppet-java",
+  "project_page": "https://github.com/Odania-IT/puppet-java",
+  "issues_url": "https://github.com/Odania-IT/puppet-java/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"puppetlabs-apt","version_requirement":">= 1.1.0"}
+  ]
+}
